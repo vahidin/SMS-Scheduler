@@ -1,2 +1,2 @@
-# Job-Scheduler
-Job Scheduler 
+# SMS-Scheduler
+SMS Scheduler for Clickatell
